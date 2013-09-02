@@ -1,6 +1,6 @@
 /*
 
-write a c program to reverse the words of a sentence.
+write a c program to reverse sentence keeping word spell intact.
 eg:he is a good boy
 output:boy good a is he
 */
